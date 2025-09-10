@@ -1,0 +1,1 @@
+import{y as a,z as o,B as n,_ as r,A as c,C as _}from"#entry";const l={__name:"AboutDetail",props:["message"],setup(t){return(e,s)=>(o(),a("div",null,n(t.message),1))}},u={};function i(t,e){const s=l;return o(),a("div",null,[e[0]||(e[0]=c("h1",null,"about",-1)),_(s,{message:"this is aboutdetail page"})])}const p=r(u,[["render",i]]);export{p as default};

@@ -1,0 +1,1 @@
+import"./Hg7DAF47.js";import{y as t,z as s,P as r}from"#entry";const o={class:"flex min-h-screen flex-col items-center bg-gray-100 pt-6 sm:justify-center sm:pt-0"},m={__name:"GuestLayout",setup(a){return(e,c)=>(s(),t("div",o,[r(e.$slots,"default")]))}};export{m as default};

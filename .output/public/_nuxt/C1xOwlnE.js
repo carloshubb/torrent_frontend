@@ -1,0 +1,1 @@
+import{_ as t,y as o,A as r,z as s}from"#entry";const a={},n={class:"pt-5 bg-gradient-to-r from-gray-350 to-gray-500"};function c(_,e){return s(),o("div",n,[...e[0]||(e[0]=[r("h1",null,"UPLOADER",-1)])])}const l=t(a,[["render",c]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as o,y as a,z as n,A as t}from"#entry";const s={};function r(l,e){return n(),a("div",null,[...e[0]||(e[0]=[t("h1",null," this is about page ",-1),t("h1",null," go to detault page ",-1)])])}const u=o(s,[["render",r]]);export{u as default};
